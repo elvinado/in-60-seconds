@@ -1,7 +1,7 @@
 # Coding Odyssey
 
----
-@snap[midpoint span-50]
+---?color=linear-gradient(180deg, white 50%, #E71E60 50%)
+@snap
 ## VBA
 excel with super powers
 @snapend
