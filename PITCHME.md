@@ -1,7 +1,7 @@
 # Coding Odyssey
 
 ---
-@snap[span-50]
+@snap[midpoint span-50]
 ## VBA
 excel with super powers
 @snapend
