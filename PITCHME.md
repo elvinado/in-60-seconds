@@ -2,6 +2,26 @@
 
 ---
 
+## VBA
+Excel with super powers
+---
+
+## Java
+Objective learning
+---
+
+## R
+Can't see the patterns
+---
+
+## Simplicity of print "Hello, World"
+My universal debuggung tool
+---
+
+## Predictability
+Suddenly everything viewable using dot notation
+---
+
 ## Add Some Slide Candy
 
 ![](assets/img/presentation.png)
