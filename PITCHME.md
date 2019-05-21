@@ -1,27 +1,34 @@
 # Coding Odyssey
 
 ---
-
+@snap[span-50]
 ## VBA
-Excel with super powers
+excel with super powers
+@snapend
 ---
-
 ## Java
-Objective learning
+objective learning
 ---
-
 ## R
-Can't see the patterns
+I just can't see the patterns
 ---
-
-## Simplicity of print "Hello, World"
-My universal debuggung tool
+## Simplicity
+of print "Hello, World"
+my universal debuggung tool
 ---
-
 ## Predictability
-Suddenly everything viewable using dot notation
+suddenly everything viewable using dot notation
 ---
-
+## Super "for" loop
+---
+## import this
+zen of python
+---
+## magical ipython
+---
+## Pythonicity
+Comprehensions, unpacking, iterators, generators
+---
 ## Add Some Slide Candy
 
 ![](assets/img/presentation.png)
